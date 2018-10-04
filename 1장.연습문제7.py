@@ -1,0 +1,10 @@
+import turtle
+t = turtle.Turtle()
+#t.shape("square")
+t.shape("arrow")
+#t.shape("turtle")
+#t.shape("circle")
+#t.shape("square")
+#t.shape("triangle")
+#t.shape("classic")
+t.fd(100)
