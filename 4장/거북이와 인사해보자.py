@@ -1,0 +1,12 @@
+import turtle
+t=turtle.Turtle()
+t.shape("turtle")
+s=turtle.textinput("타이틀", "내용")
+t.write("안녕하세요?"+s+"씨, 터틀 인사드립니다.")
+t.fd(100)
+t.lt(90)
+t.fd(100)
+t.lt(90)
+t.fd(100)
+t.lt(90)
+t.fd(100)

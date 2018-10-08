@@ -1,0 +1,12 @@
+friendList=[] #배열
+f=input("f1 = ")
+friendList.append(f)
+f=input("f2 = ")
+friendList.append(f)
+f=input("f3 = ")
+friendList.append(f)
+f=input("f4 = ")
+friendList.append(f)
+f=input("f5 = ")
+friendList.append(f)
+print(friendList)
